@@ -111,7 +111,10 @@ Fórmula: C = (5 * ( F-32) / 9)
 
 Fórmula: distância = tempo x velocidade.
 
-            litros usados = distância / 12.
+litros usados = distância / 12.
 
-Como Java é uma linguagem de programação Orientada a Objetos tentei usar o máximo de classes possível para resolução dos exercícios , porém em alguns eu apenas apliquei direto ao arquivo Teste.
+OBS:
+ - Como Java é uma linguagem de programação Orientada a Objetos tentei usar o máximo de classes possível para resolução dos exercícios , porém em alguns eu apenas apliquei direto ao arquivo Teste.
 Você encontrará 2 arquivos para cada exercicio 1 é a classe que estará em domain e um que estará em test , onde é implementado e executado.
+
+ - O único exercicio com uma pasta própria é o exercicio 12.
