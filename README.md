@@ -1,5 +1,5 @@
 
-Os Exercícios resolvidos:
+ - Os Exercícios resolvidos:
 
 1 - Faça um algoritmo que leia os valores de A, B, C e em seguida imprima na tela a soma entre A e B é mostre se a soma é menor que C.
 
@@ -118,3 +118,4 @@ OBS:
 Você encontrará 2 arquivos para cada exercicio 1 é a classe que estará em domain e um que estará em test , onde é implementado e executado.
 
  - O único exercicio com uma pasta própria é o exercicio 12.
+- site de onde foram tirados : https://www.dio.me/articles/lista-de-exercicios-para-treinar-logica-de-programacao
